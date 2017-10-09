@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HomeworksTinkoff2017</string>
+    <string name="send_button">Send</string>
+    <string name="info_text">Info From Second Activity</string>
+    <string name="ok">Ок</string>
+    <string name="set_type">text/plain</string>
+    <string name="mail_to">kanzeparov@yandex.ru</string>
+    <string name="subject">This is subject</string>
+    <string name="cancel">Отмена</string>
 </resources>
